@@ -8,22 +8,48 @@
 
 .chessboardRow
 {
-	/*width: 75px;
-	height: 65px;*/
+	width: 75px;
+	height: 65px;
 }
 
-.black
-{
-	background-color: rgb(181,135,99);
-	width: 60.5px;
-	height: 60px;
-
-}
-
-.white
+.column_a
 {
 	background-color: rgb(238,218,183);
+}
 
+.column_b
+{
+	background-color: rgb(181,135,99);
+}
+
+.column_c
+{
+	background-color: rgb(238,218,183); 
+}
+
+.column_d
+{
+	background-color: rgb(181,135,99);
+}
+
+.column_e
+{
+	background-color: rgb(238,218,183);
+}
+
+.column_f
+{
+	background-color: rgb(181,135,99);
+}
+
+.column_g
+{
+	background-color: rgb(238,218,183);
+}
+
+.column_h
+{
+	background-color: rgb(181,135,99);
 }
 
 .letter
